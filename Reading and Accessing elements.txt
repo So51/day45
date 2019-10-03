@@ -1,0 +1,2 @@
+var nationality = new Array ("Saudi", "English", "Egyption");
+document.write(nationality[2]);
